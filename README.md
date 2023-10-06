@@ -3,7 +3,7 @@ This repository contains code and data for the paper "Stronger MIP Formulations 
 
 
 # Require
-To run the code, you will need installations of [Gurobi](https://www.gurobi.com/) 
+To run the code, you will need installations of [Gurobi](https://www.gurobi.com/) and [NetworkX](https://networkx.org/) 
 
 
 # Run
