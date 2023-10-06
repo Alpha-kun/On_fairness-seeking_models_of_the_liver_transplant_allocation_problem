@@ -1,5 +1,5 @@
-# Stronger MIP Formulations for the Liver Region Redesign Problem
-This repository contains code and data for the paper "Stronger MIP Formulations for the Liver Region Redesign Problem" by Aysenur Karagoz, Ruofeng Liu, Hamidreza Validi, and Andrew J. Schaefer.
+# Strengthened MIP Formulations for the Liver Region Redesign Models of Akshat et al.
+This repository contains code and data for the paper "Strengthened MIP Formulations for the Liver Region Redesign Models of Akshat et al." by Aysenur Karagoz, Ruofeng Liu, Hamidreza Validi, and Andrew J. Schaefer.
 
 
 # Require
